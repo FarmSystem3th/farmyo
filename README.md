@@ -7,7 +7,6 @@
 |--------|------------------|---------------------------------------------|
 | 이소은 | 경영정보학과      | [saokiritoni](https://github.com/saokiritoni) |
 | 서하은 | 컴퓨터공학전공    | [haeun1107 ](https://github.com/haeun1107 ) |
-| 이종범 | 경영정보학과      | [JongbeomLee623](https://github.com/JongbeomLee623) |
 | 김민지 | 정보통신공학과    | [mmngithub](https://github.com/mmngithub) |
 | 차연우 | 정보통신공학과    | [YEONWOOCHA](https://github.com/YEONWOOCHA) |
 | 오다교 | 컴퓨터공학전공    | [cinq02](https://github.com/cinq02) |
